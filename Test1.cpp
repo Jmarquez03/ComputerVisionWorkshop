@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
 	Mat image;
-
+	cout << "Hello world" << endl;
 	namedWindow("Display window");
 
 	VideoCapture cap(0);
